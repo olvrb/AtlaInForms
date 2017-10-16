@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlaInForms", "AtlaInForms\AtlaInForms.csproj", "{AD91C10D-3822-42DC-BBB4-ADAC050C9DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD91C10D-3822-42DC-BBB4-ADAC050C9DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD91C10D-3822-42DC-BBB4-ADAC050C9DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD91C10D-3822-42DC-BBB4-ADAC050C9DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD91C10D-3822-42DC-BBB4-ADAC050C9DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301C19CC-9420-4D01-80B2-ED3380D56BEA}
+	EndGlobalSection
+EndGlobal

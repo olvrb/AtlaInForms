@@ -1,0 +1,7 @@
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\bin\Debug\AtlaInForms.exe.config
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\bin\Debug\AtlaInForms.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\bin\Debug\AtlaInForms.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\obj\Debug\AtlaInForms.csprojResolveAssemblyReference.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\obj\Debug\AtlaInForms.csproj.CoreCompileInputs.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\obj\Debug\AtlaInForms.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\AtlaInForms\AtlaInForms\obj\Debug\AtlaInForms.pdb
