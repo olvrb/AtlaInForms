@@ -49,18 +49,18 @@ namespace TransAtla
             Console.WriteLine("Or: " + hexTranslate(name) + " in hexadecimal."); // hex translator for name
             Console.WriteLine("And finally, in ASCII code: ");
             Console.WriteLine(Convert.ToString(ASCIICodeTranslate(name))); // ascii translator for name
-            Console.WriteLine("Want to continue? (yes/no)");
-            Console.WriteLine("(this will clear everything on this window)");
+            
             */
-            string output = "Output for " + '"' + name + '"' + " :" + Environment.NewLine +
-                '"' + name + '"' + " Translates to: " + binTranslate(name) + " in binary," + Environment.NewLine +
-                "Or: " + base64Translate(name) + "in base64," + Environment.NewLine +
-                translateMorse(input) + "in Morse Code," + Environment.NewLine +
-                "Or: " + hexTranslate(name) + " in hexadecimal." + Environment.NewLine +
-                "And finally, in ASCII code: " + Environment.NewLine +
+            string output = "Output for " + '"' + name + '"' + " :\n" +
+                '"' + name + '"' + " Translates to: " + binTranslate(name) + " in binary,\n" +
+                "Or: " + base64Translate(name) + "in base64,\n" +
+                translateMorse(input) + "in Morse Code,\n" +
+                "Or: " + hexTranslate(name) + " in hexadecimal.\n" +
+                "And finally, in ASCII code: " +
                 ASCIICodeTranslate(name);
             MessageBox.Show(output);
-
+            Console.WriteLine("Want to continue? (yes/no)");
+            Console.WriteLine("(this will clear everything on this window)");
             sudoSandwich();
             Console.ReadKey();
         }
@@ -201,9 +201,7 @@ namespace TransAtla
             {
                 numCHar++;
                 sum += c;
-                Console.WriteLine("Character " + numCHar + " : " + c);
             }
-            Console.WriteLine("And the sum of that is: ");
             return sum;
         }
         public static String ToTrenary(int value)
